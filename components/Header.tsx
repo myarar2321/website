@@ -68,7 +68,7 @@ const Header = () => {
               Teen Leaks
             </p>
             <p className=" w-full lg:text-6xl pt-2 text-2xl md:text-4xl sm:text-2xl md:text-start">
-              {`Exclusive Content`}
+              {``}
             </p>
             <div className=" flex md:text-start justify-center lg:justify-start  w-full">
               <p className="pt-10  max-w-96  align-middle text-sm sm:text-base md:text-lg lg:text-xl ">
