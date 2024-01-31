@@ -65,10 +65,10 @@ const Header = () => {
         <div className="flex w-full justify-between">
           <div className="flex  flex-col text-center md:text-start justify-center items-center  flex-1 text-white">
             <p className="w-full text-2xl lg:text-6xl font-bold md:text-4xl sm:text-2xl ">
-              The New Standard For
+              Teen Leaks
             </p>
             <p className=" w-full lg:text-6xl pt-2 text-2xl md:text-4xl sm:text-2xl md:text-start">
-              {`Quick-Service`}
+              {`Exclusive Content`}
             </p>
             <div className=" flex md:text-start justify-center lg:justify-start  w-full">
               <p className="pt-10  max-w-96  align-middle text-sm sm:text-base md:text-lg lg:text-xl ">
