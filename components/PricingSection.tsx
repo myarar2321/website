@@ -31,14 +31,14 @@ const CARD = [
   {
     subTitle: "Max",
     productID: "65b7c48715dd9",
-    title: "Mega Pack",
+    title: "Teen Pack",
     price: "34.99",
     features: [
       "Access within seconds",
       "One time payment",
-      "50 to 100 models each day",
+      "50 to 100 leaks each day",
       "OnlyFans & SnapChat pack",
-      "Trending adult stars & celebs",
+      "Trending teen stars & celebs",
       "Teen Leaks",
       "Custom model requests",
     ],
