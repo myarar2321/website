@@ -40,7 +40,7 @@ const CARD = [
       "OnlyFans & SnapChat pack",
       "Trending teen stars & celebs",
       "Teen Leaks",
-      "Custom model requests",
+      "Jailbait",
     ],
     highlight: true,
   },
