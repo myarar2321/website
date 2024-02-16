@@ -16,7 +16,7 @@ type PricingCardProps = {
 const CARD = [
   {
     subTitle: "Basic",
-    productID: "65ca20455e74a",
+    productID: "65ccbebde8c33",
     title: "OnlyFans Leaks",
     price: "19.99",
     highlight: false,
@@ -30,7 +30,7 @@ const CARD = [
   },
   {
     subTitle: "Max",
-    productID: "65ca1fed1e58d",
+    productID: "65ccbe75b4b42",
     title: "Teen Pack",
     price: "34.99",
     features: [
@@ -46,7 +46,7 @@ const CARD = [
   },
   {
     subTitle: "Pro",
-    productID: "65ca202376b12",
+    productID: "65ccbe9a9490e",
     title: "SnapChat Leaks",
     price: "24.99",
     features: [
